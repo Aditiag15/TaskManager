@@ -46,5 +46,4 @@ This project is ideal for:
 
 ---
 
-## 📂 Project Structure  
 
